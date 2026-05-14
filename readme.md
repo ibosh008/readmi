@@ -255,6 +255,3 @@ console.log(text.split(" "));
 - split()
 
 ---
-
-## Муаллиф
-Student JavaScript Practice 🚀
