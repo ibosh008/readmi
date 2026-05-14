@@ -57,14 +57,6 @@ console.log(text[0]);
 H
 ```
 
-Index аз 0 сар мешавад.
-
-H = 0
-e = 1
-l = 2
-l = 3
-o = 4
-
 ### charAt()
 ```javascript
 console.log(text.charAt(1));
@@ -227,7 +219,7 @@ console.log(text.split(" "));
 ```
 
 Натиҷа:
-```javascript
+```
 ["Hello","JavaScript"]
 ```
 
