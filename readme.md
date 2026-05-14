@@ -1,6 +1,6 @@
 # JavaScript Strings ва Numbers
 
-## 📚 Шарҳи лексия
+# Шарҳи лексия
 Дар ин дарс мо дар бораи **String** ва **Number** дар JavaScript омӯхтем.
 String = матн
 Number = рақам
